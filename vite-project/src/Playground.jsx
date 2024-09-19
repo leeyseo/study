@@ -4,7 +4,7 @@ import { Home } from "./Home";
 import { Work } from "./Work";
 import "./style.css";
 
-export const PortfolioAboutPage = () => {
+export const Playground = () => {
   return (
     <div className="portfolio-about-page">
       <div className="div-2">

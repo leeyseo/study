@@ -35,13 +35,13 @@
 // export default App
 import React from 'react';
 import './App.css'; // 기존 CSS 파일
-import { PortfolioWorkPage } from './PortfolioWorkPage'; // PortfolioWorkPage 컴포넌트 가져오기
+import { Home } from './Home'; // PortfolioWorkPage 컴포넌트 가져오기
 
 function App() {
   return (
     <div>
       {/* PortfolioWorkPage 컴포넌트를 렌더링 */}
-      <PortfolioWorkPage property1="default" footerClassName="custom-footer-class" />
+      <Home property1="default" footerClassName="custom-footer-class" />
     </div>
   );
 }

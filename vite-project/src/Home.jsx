@@ -5,7 +5,7 @@ import { Playground } from "./Playground";
 import { Work } from "./Work";
 import "./style.css";
 
-export const PortfolioWorkPage = ({ property1, footerClassName }) => {
+export const Home = ({ property1, footerClassName }) => {
   return (
     <div className="portfolio-work-page">
       <div className="navigation-bar">
@@ -110,6 +110,6 @@ export const PortfolioWorkPage = ({ property1, footerClassName }) => {
   );
 };
 
-PortfolioWorkPage.propTypes = {
+Home.propTypes = {
   property1: PropTypes.oneOf(["default"]),
 };
