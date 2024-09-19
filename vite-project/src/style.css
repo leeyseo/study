@@ -1,0 +1,281 @@
+.portfolio-work-page {
+    background-color: #f3f3f3;
+    height: 2302px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .portfolio-work-page .navigation-bar {
+    height: 35px;
+    left: 160px;
+    position: absolute;
+    top: 102px;
+    width: 1120px;
+  }
+  
+  .portfolio-work-page .menu {
+    height: 20px;
+    left: 822px;
+    position: relative;
+    top: 13px;
+    width: 284px;
+  }
+  
+  .portfolio-work-page .about-instance {
+    left: 88px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .portfolio-work-page .work-instance {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .portfolio-work-page .playground-instance {
+    left: 180px !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 104px !important;
+  }
+  
+  .portfolio-work-page .section {
+    height: 1823px;
+    left: 160px;
+    position: absolute;
+    top: 227px;
+    width: 1120px;
+  }
+  
+  .portfolio-work-page .headline {
+    height: 283px;
+    left: 41px;
+    position: absolute;
+    top: 0;
+    width: 1060px;
+  }
+  
+  .portfolio-work-page .hello-i-m-leeyseo {
+    color: var(--main-black);
+    font-family: var(--heading-1-font-family);
+    font-size: var(--heading-1-font-size);
+    font-style: var(--heading-1-font-style);
+    font-weight: var(--heading-1-font-weight);
+    left: 0;
+    letter-spacing: var(--heading-1-letter-spacing);
+    line-height: var(--heading-1-line-height);
+    position: absolute;
+    top: 0;
+    width: 360px;
+  }
+  
+  .portfolio-work-page .img {
+    height: 38px;
+    left: 0;
+    position: absolute;
+    top: 245px;
+    width: 34px;
+  }
+  
+  .portfolio-work-page .machine-learning {
+    color: #000000;
+    font-family: var(--heading-2-font-family);
+    font-size: var(--heading-2-font-size);
+    font-style: var(--heading-2-font-style);
+    font-weight: var(--heading-2-font-weight);
+    left: 476px;
+    letter-spacing: var(--heading-2-letter-spacing);
+    line-height: var(--heading-2-line-height);
+    position: absolute;
+    top: 64px;
+    width: 580px;
+  }
+  
+  .portfolio-work-page .body {
+    height: 878px;
+    left: 0;
+    position: absolute;
+    top: 358px;
+    width: 1120px;
+  }
+  
+  .portfolio-work-page .element-PROJECT-NAME {
+    color: var(--main-black);
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.54px;
+    line-height: 21.9px;
+    position: absolute;
+    top: -1px;
+    width: 326px;
+  }
+  
+  .portfolio-work-page .element {
+    color: var(--main-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.54px;
+    line-height: 27px;
+    position: absolute;
+    top: 81px;
+    width: 450px;
+  }
+  
+  .portfolio-work-page .seperator {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 804px;
+    width: 1115px;
+  }
+  
+  .portfolio-work-page .element-2 {
+    height: 531px;
+    left: 612px;
+    object-fit: cover;
+    position: absolute;
+    top: 138px;
+    width: 413px;
+  }
+  
+  .portfolio-work-page .body-2 {
+    height: 473px;
+    left: 0;
+    position: absolute;
+    top: 1350px;
+    width: 1120px;
+  }
+  
+  .portfolio-work-page .element-PROJECT-NAME-2 {
+    color: var(--main-black);
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.54px;
+    line-height: 21.9px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 326px;
+  }
+  
+  .portfolio-work-page .experimental {
+    color: var(--main-black);
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.54px;
+    line-height: 21.9px;
+    position: absolute;
+    top: 43px;
+    width: 356px;
+  }
+  
+  .portfolio-work-page .link {
+    color: var(--main-gray);
+    font-family: var(--sub-header-link-font-family);
+    font-size: var(--sub-header-link-font-size);
+    font-style: var(--sub-header-link-font-style);
+    font-weight: var(--sub-header-link-font-weight);
+    left: 0;
+    letter-spacing: var(--sub-header-link-letter-spacing);
+    line-height: var(--sub-header-link-line-height);
+    position: absolute;
+    text-decoration: underline;
+    top: 346px;
+    white-space: nowrap;
+    width: 326px;
+  }
+  
+  .portfolio-work-page .thumbnail {
+    background-color: var(--main-gray);
+    height: 365px;
+    left: 480px;
+    position: absolute;
+    top: 0;
+    width: 640px;
+  }
+  
+  .portfolio-work-page .seperator-2 {
+    height: 2px;
+    left: 8px;
+    position: absolute;
+    top: 472px;
+    width: 1115px;
+  }
+  
+  .portfolio-work-page .footer {
+    height: 20px;
+    left: 160px;
+    position: absolute;
+    top: 2180px;
+    width: 1120px;
+  }
+  
+  .portfolio-work-page .leeyseo {
+    color: var(--secondary);
+    font-family: var(--navigation-font-family);
+    font-size: var(--navigation-font-size);
+    font-style: var(--navigation-font-style);
+    font-weight: var(--navigation-font-weight);
+    left: 0;
+    letter-spacing: var(--navigation-letter-spacing);
+    line-height: var(--navigation-line-height);
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 271px;
+  }
+  
+  .portfolio-work-page .insta {
+    color: var(--main-black);
+    font-family: var(--navigation-font-family);
+    font-size: var(--navigation-font-size);
+    font-style: var(--navigation-font-style);
+    font-weight: var(--navigation-font-weight);
+    left: 791px;
+    letter-spacing: var(--navigation-letter-spacing);
+    line-height: var(--navigation-line-height);
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 98px;
+  }
+  
+  .portfolio-work-page .text-wrapper-3 {
+    color: var(--main-black);
+    font-family: var(--navigation-font-family);
+    font-size: var(--navigation-font-size);
+    font-style: var(--navigation-font-style);
+    font-weight: var(--navigation-font-weight);
+    left: 921px;
+    letter-spacing: var(--navigation-letter-spacing);
+    line-height: var(--navigation-line-height);
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 98px;
+  }
+  
+  .portfolio-work-page .text-wrapper-4 {
+    color: var(--main-black);
+    font-family: var(--navigation-font-family);
+    font-size: var(--navigation-font-size);
+    font-style: var(--navigation-font-style);
+    font-weight: var(--navigation-font-weight);
+    left: 1050px;
+    letter-spacing: var(--navigation-letter-spacing);
+    line-height: var(--navigation-line-height);
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+    width: 69px;
+  }
+  
